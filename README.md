@@ -2,11 +2,11 @@
 
 ## What
 
-* 
+* Camera scroller script for Unity3D
 
 ## Requirement
 
-* 
+* Nothing
 
 ## Install
 
@@ -16,7 +16,9 @@ yarn add "umm/camera_scroller#^1.0.0"
 
 ## Usage
 
-* 
+Just attach OrthographicCameraScroller script.
+
+![camera_scroller_demo](./art/camera_scroller_demo.gif)
 
 ## License
 
